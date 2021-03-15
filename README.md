@@ -12,5 +12,5 @@ Autor: Kevin Steve Ojeda Carrillo
 # Características
 Parte del examen practico de Software libre
 
-Contiene los diferentes puntos resueltos del parcial
+Contiene los diferentes puntos resueltos del parcial a traves de algunos programas de Software Libre
 
